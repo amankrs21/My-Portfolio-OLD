@@ -1,5 +1,5 @@
 <h2 align="center">
-  Aman Portfolio Website - v2.0<br/>
+  Aman Portfolio Websit<br/>
 </h2>
 <br/>
 
@@ -7,7 +7,7 @@
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors**
 
 **📱 Fully Responsive**
 
@@ -21,8 +21,8 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.
+Open [http://localhost:3000] to view it in the browser.
 The page will reload if you make edits.
 
 ## Usage Instructions

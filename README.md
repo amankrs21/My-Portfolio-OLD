@@ -1,8 +1,6 @@
 <h2 align="center">
   Aman Portfolio Websit<br/>
 </h2>
-<br/>
-
 ## Features
 
 **📖 Multi-Page Layout**

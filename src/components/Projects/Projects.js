@@ -23,7 +23,7 @@ function Projects() {
               title="Angular Todo"
               description="Sleek single-page application allowing users to create and manage todos. Leveraging Angular, it seamlessly saves todo entries in local storage, ensuring data persistence. An efficient and user-friendly solution for organizing tasks with a seamless user experience."
               ghLink="https://github.com/amankrs21/AngularTodo"
-              demoLink="https:angulartodo.pages.dev/"
+              demoLink="https://angulartodo.pages.dev/"
             />
           </Col>
 
